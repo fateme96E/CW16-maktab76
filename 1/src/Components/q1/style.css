@@ -1,0 +1,9 @@
+.styleList{
+    width: 200px;
+    color: #ffff;  
+    font-size: 22px;
+    padding: 10px 55px;
+    border-radius: 8px;
+    margin: 25px auto;
+    border: 2px solid #000000;
+}
